@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Your Name  
+# Hi, I’m Thomas Lian.
 Welcome to my portfolio.  
 
 ## Projects
